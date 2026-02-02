@@ -54,17 +54,6 @@ I believe consistency > hype, and I’m building my profile step by step.
 
 ---
 
-## 📊 GitHub Activity  
-
-<div align="center">
-
-![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=PremB2907&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PremB2907&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 🌱 Currently  
 
 - Improving problem-solving & coding consistency  
