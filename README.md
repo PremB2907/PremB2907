@@ -2,14 +2,15 @@
 
 # 👋 Hi, I'm Prem Baraskar
 
-### IT Undergraduate | Cyber Security Enthusiast | Problem Solver
+### IT Undergraduate | AI/ML Enthusiast | Full-Stack Developer
 
-*Building skills, solving problems, and growing one commit at a time*
+*Building accessible tech - from sign language recognition to ancient ciphers*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prem-baraskar-a155b2327/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prem-baraskar-a155b3327/)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-FF5722?style=for-the-badge)](https://prem-baraskar-portfolio-hub.lovable.app)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prem.baraskar24@sakec.ac.in)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/PremB2907)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@Khodkarbandya)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PremB2907&color=blueviolet&style=for-the-badge)
 
@@ -24,59 +25,75 @@ class PremBaraskar:
     def __init__(self):
         self.location = "Mumbai, India 🇮🇳"
         self.education = "B.Tech IT @ SAKEC (2024-2028)"
-        self.current_focus = ["Cyber Security", "Web Development", "Problem Solving"]
-        self.goals_2025 = ["Complete 10+ projects", "Win a hackathon", "Start internship"]
-        self.interests = ["Hackathons", "Open Source", "System Design"]
-        self.motto = "Consistency > Hype"
+        self.interests = ["Deep Learning", "Computer Vision", "Full-Stack Dev", "Cryptography"]
+        self.current_focus = "Building AI systems that actually work in real-time"
+        self.philosophy = "Build real. Ship fast. Learn public."
+        self.hackathon_status = "AVISHKAAR Season 3 - Shortlisted for Physical Round 🏆"
 ```
 
-- 🔭 Currently working on **building foundational projects** in web dev & security
-- 🌱 Learning **Data Structures**, **DBMS**, and **Cyber Security fundamentals**
-- 🎯 Participated in **AVISHKAAR Season 3** - Shortlisted for physical round! 🏆
-- 💼 Open to **internships** and **collaborative projects**
-- ⚡ Fun fact: I run a YouTube channel and believe in learning in public
+- 🔭 **3 active projects** - Voice AI, Sign Language Recognition, Ancient Cipher
+- 🌱 Learning **advanced computer vision** and **LLM fine-tuning**
+- 🎯 **Hackathon achiever** - AVISHKAAR Season 3 shortlist
+- 💼 Open to **AI/ML internships** and **collaborative projects**
+- ⚡ Fun fact: My ASL recognition project helps bridge communication gaps!
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Hackathon Achievement
+
+### 🌿 **EcoTech** - AVISHKAAR Season 3 (National Level Hackathon)
+- **Status:** Shortlisted for Physical Round ✅
+- **Category:** Sustainability & Environmental Tech
+
+---
+
+## 🚀 Featured Projects (Real. Working. Shipped.)
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌿 [EcoTech - Hackathon Project](https://github.com/PremB2907/EcoTech)
-**Sustainability Platform**
+### 🎤 [Voice Chat - AI Avatar](https://github.com/PremB2907/voice_chat)
+**AI-Powered Conversational Avatar**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama)
 
-Team project shortlisted for AVISHKAAR Season 3
+**Complete AI companion system with:**
 
-- 🌱 Environmental awareness platform
-- 🤝 Community engagement features
-- 📱 Responsive design
-- 🎨 Modern UI/UX principles
+- 🧠 **Multi-turn memory** using FAISS semantic search
+- 😊 **Emotion detection** (DistilRoBERTa - 6 emotions)
+- 🗣️ **XTTS v2** - Multilingual voice synthesis (13+ languages)
+- 👤 **3D avatar** with OpenGL rendering
+- 🔒 **Privacy-first** - Runs on-device with Ollama
+- 💾 **Persistent memory** with conversation logging
 
-**[🔗 View Repository](https://github.com/PremB2907/EcoTech)**
+**Tech:** Flask, FAISS, Sentence Transformers, Coqui TTS, Transformers
+
+**[🔗 Live Demo](https://github.com/PremB2907/voice_chat)** • **[📹 Watch Demo]**
 
 </td>
 <td width="50%">
 
-### 💼 [Portfolio Hub](https://prem-baraskar-portfolio-hub.lovable.app)
-**Personal Portfolio Website**
+### 🤟 [ASL Recognition System](https://github.com/PremB2907/ASL-recognition)
+**Real-time American Sign Language Detection**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)
 
-Modern, responsive portfolio showcasing my journey
+**Deep learning for accessibility:**
 
-- ✨ Smooth animations
-- 📱 Mobile-first design
-- 🚀 Fast performance
-- 🎯 Project showcases
+- 📷 **Real-time webcam recognition** (A-Z alphabets)
+- 🧠 **CNN-based classification** with TensorFlow/Keras
+- ⚡ **Fast predictions** using MediaPipe + OpenCV
+- 🎯 **High accuracy** with real-world testing
+- 🌐 **Web interface** for easy access
 
-**[🌐 Live Demo](https://prem-baraskar-portfolio-hub.lovable.app)**
+**Tech:** TensorFlow, OpenCV, MediaPipe, NumPy
+
+**[🔗 Live Demo](https://github.com/PremB2907/ASL-recognition)** • **[📹 Watch Demo]**
 
 </td>
 </tr>
@@ -84,36 +101,44 @@ Modern, responsive portfolio showcasing my journey
 <tr>
 <td width="50%">
 
-### 🔐 [Security Tools Lab](https://github.com/PremB2907/Security-Lab)
-**Cyber Security Practice**
+### 🎭 [Katapayadi Cipher](https://github.com/PremB2907/Katapayadi-Cipher-Web-Application-Development)
+**Ancient Indian Encoding System**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite)
 
-Learning security through hands-on experiments
+**Where history meets modern web:**
 
-- 🛡️ Basic encryption scripts
-- 🌐 Network scanning tools
-- 📊 Security analysis
-- 📝 Documentation of learnings
+- 🔐 **Authentic Katapayadi encoding** (used in Carnatic music)
+- 🎨 **New Brutalism design** - Bold, raw, high-contrast
+- 🔑 **Key-based encryption** (0-9 keys for security)
+- 👤 **Full auth system** - Login/register + admin panel
+- 🌓 **Dark/Light mode** with persistent preference
+- 📱 **Fully responsive** desktop + mobile
 
-**[📂 View Code](https://github.com/PremB2907/Security-Lab)**
+**Tech:** Flask, SQLAlchemy, Werkzeug, Jinja2
+
+**[🔗 Live Demo](https://github.com/PremB2907/Katapayadi-Cipher-Web-Application-Development)**
 
 </td>
 <td width="50%">
 
-### 📊 [Student Dashboard](https://github.com/PremB2907/Student-Dashboard)
-**Database Management Project**
+### 🌿 EcoTech (Hackathon)
+**Sustainability Platform**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
 
-Academic database management system
+**AVISHKAAR Season 3 Shortlisted Project**
 
-- 📈 Student record management
-- 🔍 Search & filter functionality
-- 📊 Data visualization
-- 🔐 Basic authentication
+- 🌱 Environmental awareness platform
+- 🤝 Community engagement features
+- 📱 Responsive design
+- 🎯 Impact-focused UI
+
+**[🔗 View Repository](https://github.com/PremB2907/EcoTech)** *(Coming soon)*
 
 </td>
 </tr>
@@ -123,44 +148,40 @@ Academic database management system
 
 ## 🛠️ Tech Stack
 
-### Languages I'm Learning
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Design & AI/ML
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+### AI/ML & Computer Vision
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-009688?style=for-the-badge&logo=mediapipe&logoColor=white)
 
-### Other Tools I Use
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### Web & Backend
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-412991?style=for-the-badge&logo=meta&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -179,81 +200,77 @@ Academic database management system
 
 </div>
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PremB2907&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
 ---
 
-## 🎓 Education & Achievements
+## 🎯 What Makes My Projects Different
 
-🎓 **B.Tech in Information Technology** - Shah and Anchor Kutchhi Engineering College (2024-2028)
-
-🏆 **Hackathon Achievements:**
-- 🧠 **AVISHKAAR Season 3** - National Level Hackathon
-  - Team: **EcoTech**
-  - Status: **Shortlisted for Physical Round** ✨
-
-📜 **Currently Building:**
-- Portfolio of projects (adding more as I learn!)
-- Problem-solving skills (consistent practice)
-- Technical documentation habits
+| Project | Key Innovation | Real-World Impact |
+|---------|---------------|-------------------|
+| **Voice Chat** | On-device AI + emotion + 3D avatar | Privacy-first AI companion |
+| **ASL Recognition** | Real-time sign language translation | Accessibility for deaf community |
+| **Katapayadi Cipher** | Ancient Indian cryptography + modern UI | Preserving cultural heritage |
+| **EcoTech** | Sustainability platform | Environmental awareness |
 
 ---
 
 ## 🌱 Currently Learning
 
 ```python
-current_focus = [
-    "📚 Data Structures & Algorithms",
-    "🗄️ Database Management Systems (DBMS)",
-    "🔒 Cyber Security fundamentals",
-    "🌐 Computer Networks",
-    "⚙️ Operating Systems concepts",
-    "🎯 Problem solving patterns"
-]
+current_learning = {
+    "Advanced": [
+        "🐍 Fine-tuning LLMs for specific domains",
+        "🎯 Real-time object detection (YOLO, MediaPipe)",
+        "🗣️ Advanced voice cloning techniques"
+    ],
+    "Core CS": [
+        "📚 Data Structures & Algorithms",
+        "🗄️ Database Management Systems",
+        "🔒 Cyber Security fundamentals",
+        "🌐 Computer Networks"
+    ],
+    "DevOps": [
+        "🐳 Docker containerization",
+        "☁️ Cloud deployment (AWS/Azure)"
+    ]
+}
 ```
 
 ---
 
-## 💡 My Learning Philosophy
+## 📈 Project Stats
 
-> *"Consistency over intensity. Learning in public. Building honestly."*
+<div align="center">
 
-I believe in:
-- 📖 **Deep understanding** - Not just syntax, but concepts
-- 🤝 **Community** - Learning from and with others
-- 🔨 **Practice** - Building projects, even small ones
-- 📝 **Documentation** - Sharing what I learn
-- 🎯 **Persistence** - Showing up every day
+| Project | Stars | Language | Key Feature |
+|---------|-------|----------|-------------|
+| [Voice Chat](https://github.com/PremB2907/voice_chat) | 0 | Python 43% | Emotion-aware AI avatar |
+| [Katapayadi Cipher](https://github.com/PremB2907/Katapayadi-Cipher-Web-Application-Development) | ⭐ 3 | HTML 71.5% | Ancient encryption |
+| [ASL Recognition](https://github.com/PremB2907/ASL-recognition) | 0 | Python 58.4% | Real-time sign detection |
+
+</div>
 
 ---
 
-## 🎯 2026 Goals
+## 🏆 Achievements
 
-- [ ] Complete 10+ meaningful projects
-- [ ] Win or get shortlisted in 2+ hackathons
-- [ ] Start a cybersecurity or web dev internship
-- [ ] Contribute to open source
-- [ ] Build a strong GitHub portfolio
-- [ ] Master DSA for technical interviews
-- [ ] Learn cloud fundamentals (AWS/Azure basics)
+- ✅ **AVISHKAAR Season 3** - Shortlisted for physical round
+- ✅ **3 complete production-ready projects**
+- ✅ **Research implementation** - Voice chat references 6+ research papers
+- ✅ **Ancient tech preservation** - Implemented Katapayadi system
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm always open to:
-- 💼 **Internship opportunities** (Web Dev, Security, or IT roles)
-- 🤝 **Collaborative projects** to learn together
-- 💬 **Tech discussions** about security, web dev, or CS fundamentals
-- 🏆 **Hackathon teammates** for upcoming events
+I'm actively looking for:
+- 💼 **AI/ML Internships** - Computer Vision, LLMs, or Voice AI
+- 🤝 **Open Source Collaborations** - Accessibility tech, Indian heritage tech
+- 🏆 **Hackathon Teams** - Building impactful solutions
+- 💬 **Tech Discussions** - Deep Learning, Flask, Computer Vision
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prem-baraskar-a155b2327/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prem-baraskar-a155b3327/)
 [![Email](https://img.shields.io/badge/Email-prem.baraskar24@sakec.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prem.baraskar24@sakec.ac.in)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge)](https://prem-baraskar-portfolio-hub.lovable.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/PremB2907)
@@ -265,21 +282,16 @@ I'm always open to:
 
 <div align="center">
 
-### 💭 *"Learning in public. Building honestly. Growing every day."*
+### 💭 *"Building AI that talks, signs, and preserves ancient wisdom"*
 
-**⭐ Star my repositories if you find them helpful!**
-
-![Snake animation](https://raw.githubusercontent.com/PremB2907/PremB2907/output/github-contribution-grid-snake-dark.svg)
+**⭐ Star my repos if you find them useful!**
 
 ---
 
 **Made with ❤️ and lots of ☕**
 
-*Currently in 2nd year • Building the foundation for an amazing tech journey*
+*B.Tech IT @ SAKEC • Building real stuff since 2024*
 
 </div>
 ```
 
-
-
-This maintains the professional look while being honest about your current stage and focused on growth! 🚀
