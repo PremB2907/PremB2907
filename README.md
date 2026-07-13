@@ -7,7 +7,7 @@
 <br/>
 
 ![B.Tech IT](https://img.shields.io/badge/B.Tech%20IT-SAKEC%2C%20Mumbai-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-9.69%2F10.00-6D28D9?style=for-the-badge&logo=academia&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-9.845%2F10.00-6D28D9?style=for-the-badge&logo=academia&logoColor=white)
 ![Location](https://img.shields.io/badge/📍%20Mumbai-India-8B5CF6?style=for-the-badge)
 ![Patent](https://img.shields.io/badge/Patent-Under%20Filing%202026-A855F7?style=for-the-badge&logo=lightbulb&logoColor=white)
 
