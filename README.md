@@ -452,9 +452,11 @@ class PremBaraskar:
 
 ## 🏆 GitHub Trophies
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PremB2907&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="profile/trophy.svg" alt="GitHub Profile Trophies" />
 
 </div>
 
@@ -462,9 +464,19 @@ class PremBaraskar:
 
 ## 📈 Contribution Activity
 
+<h2 align="center">📈 Contribution Activity</h2>
+
 <div align="center">
 
-[![Prem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PremB2907&bg_color=0d1117&color=A855F7&line=7C3AED&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=PremB2907&bg_color=0d1117&color=A855F7&line=7C3AED&point=c9d1d9&area=true&hide_border=true"
+  alt="Prem's GitHub Activity Graph"
+  width="100%"
+/>
+
+</a>
 
 </div>
 
@@ -472,12 +484,29 @@ class PremBaraskar:
 
 ## 🐍 Contribution Snake
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PremB2907&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/PremB2907/PremB2907/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/PremB2907/PremB2907/output/github-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/PremB2907/PremB2907/output/github-snake.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
-
 ---
 
 ## 🎯 Current Focus
