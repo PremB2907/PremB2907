@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Prem%20Baraskar&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Researcher%20%7C%20SAKEC%20'28&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Prem%20Baraskar&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Researcher%20%7C%20Author%20%7C%20SAKEC%20'28&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Building+AI+that+talks%2C+signs+%26+thinks+in+real-time;Patent+Author+%7C+3+Papers+Under+Review+%40+Inderscience;CGPA+9.69+%7C+Semester+III%3A+10.00%2F10.00+%F0%9F%94%A5;IISc+SPIRE+Lab+%7C+ISRO+BAH+2026+%7C+AVISHKAAR+S3;Build+Real.+Ship+Fast.+Learn+Public.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=950&lines=Building+AI+that+talks%2C+signs+%26+thinks+in+real-time;1+Paper+Accepted+%7C+6+Under+Review+%7C+Patent+Under+Filing;CGPA+9.845+%7C+Sem+III+%26+IV%3A+10.00+SGPA+%F0%9F%94%A5;IISc+SPIRE+Lab+%7C+ISRO+BAH+2026+%7C+Published+Author;Build+Real.+Ship+Fast.+Learn+Public.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +14,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://prem-baraskar-portfolio-hub.lovable.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-baraskar-a155b3327/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-baraskar-a155b2327/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prem.baraskar24@sakec.ac.in)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremB2907)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Khodkarbandya)
@@ -36,13 +36,15 @@ class PremBaraskar:
     def __init__(self):
         self.name         = "Prem Baraskar"
         self.location     = "Mumbai, India 🇮🇳"
-        self.education    = "B.Tech IT @ SAKEC (2024–2028) | CGPA: 9.69 | Sem III: 10.00/10.00 🔥"
-        self.research     = ["3 papers under review @ Inderscience", "1 patent under filing (HealthCrypt Nexus)"]
-        self.experience   = ["IISc SPIRE Lab – Speech Dataset Curator", "DeepCytes Cyber Labs (UK) – Cyber Fellow",
+        self.education    = "B.Tech IT @ SAKEC (2024–2028) | CGPA: 9.845 | Sem III & IV: 10.00 SGPA 🔥"
+        self.research     = ["1 paper accepted @ Inderscience (IJAISC)", "6 papers under review / with editor (Springer Nature, Springer, Inderscience)",
+                             "1 patent under filing (HealthCrypt Nexus)"]
+        self.author       = "After all we're here Only Once!? (Pothi.com, July 2026)"
+        self.experience   = ["IISc SPIRE Lab – Speech Dataset Curator", "DeepCytes Cyber Labs (UK) – Cyber Analyst Fellow",
                              "AICTE – Ethical Hacking, Python Full Stack, Data Science, Cybersecurity"]
-        self.hackathons   = ["ISRO BAH 2026 – PS-04 Road Extraction (Active)", "AVISHKAAR S3 – Shortlisted 🏆",
-                             "Quasar 4.0 – IntelliCare HMS"]
-        self.interests    = ["Computer Vision", "Emotionally Adaptive AI", "Cryptography", "Network Security",
+        self.hackathons   = ["ISRO BAH 2026 – PS-04 Road Extraction", "AVISHKAAR S3 – Shortlisted 🏆",
+                             "Quasar 4.0 – IntelliCare HMS", "Neural Nexus 2026 – LawLens-X", "SIH 2024 – Shortlisted (internal)"]
+        self.interests    = ["Computer Vision", "Emotionally Adaptive AI", "Cryptography", "Post-Quantum Security",
                              "LLM Fine-tuning", "Urban Mobility AI"]
         self.philosophy   = "Build real. Ship fast. Learn public."
         self.superpower   = "Turning semester coursework into patent-worthy systems"
@@ -51,24 +53,29 @@ class PremBaraskar:
         return {
             "patent"   : "HealthCrypt Nexus – multi-domain hospital + security + crypto orchestrator",
             "hackathon": "BAH 2026 – occlusion-robust road extraction + graph-theoretic urban criticality",
-            "papers"   : "MemoryBridge AI | Gesture Biometric Auth | Steganographic DjVu Compression"
+            "papers"   : "PQC & QKD | Q-Sentinel | DjVu Compression | Sign Language | Password Vault | Blockchain Testing"
         }
 ```
 
-> 🏅 **Global Winner (Rank #1)** – Heartfulness Essay Event 2025 &nbsp;|&nbsp; 📜 **3 Research Papers** @ Inderscience &nbsp;|&nbsp; ⚡ **Semester III: Perfect 10.00 SGPA**
+> 🏅 **Global Rank #1** – Heartfulness Essay Event 2025 &nbsp;|&nbsp; 🎖️ **Student Excellence Award 2026** &nbsp;|&nbsp; 📜 **1 Accepted + 6 Under Review** &nbsp;|&nbsp; 📖 **Published Book** &nbsp;|&nbsp; ⚡ **Sem III & IV: Perfect 10.00 SGPA**
 
 ---
 
-## 🏛️ Research & Intellectual Property
+## 🏛️ Research, IP & Publications
 
 <div align="center">
 
-| Type | Title | Status |
+| Type | Title | Venue / Status |
 |:---|:---|:---:|
+| ✅ **Research Paper** | MemoryBridge: An AI-Based Conversational System for Emotionally Adaptive Interaction with Deceased Loved Ones Using Personal Data Modalities | **Accepted** · Int. J. of AI & Soft Computing, Inderscience |
+| 📄 **Research Paper** | From Computational to Physical Security: An Experimental Study of Post-Quantum Cryptography and Quantum Key Distribution | Under Review · Quantum Information Processing, Springer Nature |
+| 📄 **Research Paper** | Q-Sentinel: A Deterministic Quantum-Statistical Framework for Threat Detection in Teleportation-Based Quantum Digital Signatures | Under Review · Discover Quantum Science, Springer Nature |
+| 📄 **Research Paper** | A Unified Framework for Evaluating Document Compression Formats Across OCR Fidelity, Steganographic Integrity, and Archival Efficiency | Under Review · IJDAR, Springer |
+| 📄 **Research Paper** | Real-Time Sign Language Prediction Using Transfer Learning and Hand Landmark-Guided ROI Extraction | Under Review · Signal, Image and Video Processing, Springer |
+| 📄 **Research Paper** | Design and Experimental Evaluation of an Offline Password Vault with Threshold-Based Cryptographic Recovery | Under Review · Int. J. of Information & Computer Security, Inderscience |
+| 📄 **Research Paper** | A Unified Framework for Systematic Testing of Blockchain-Based Applications: Test Strategies and Empirical Validation | Under Review · Empirical Software Engineering, Springer |
 | 🔏 **Patent** | HealthCrypt Nexus: Unified Hospital, Network Security & Cryptographic Orchestration Platform | Under Filing 2026 |
-| 📄 **Research Paper** | MemoryBridge: AI-Based Conversational System for Emotionally Adaptive Interaction | Under Review @ Inderscience |
-| 📄 **Research Paper** | Gesture-Based Biometric Authentication: Real-Time Sign Language Recognition | Under Review @ Inderscience |
-| 📄 **Research Paper** | Secure Archival Document Compression: OCR and Steganography-Aware Evaluation of DjVu | Under Review @ Inderscience |
+| 📖 **Book** | After all we're here Only Once!? | Published · Pothi.com · July 2026 |
 | ✍️ **Tech Article** | Biology's Most Sacred Rule Is Getting a Rewrite | Published @ SAKEC Bytes |
 | ✍️ **Tech Article** | When Code Learns to Dream: AI, Studio Ghibli & Hand-Drawn Animation | Published @ SAKEC Bytes |
 | ✍️ **Tech Article** | The New Alchemy: AI Supercharging Yamanaka Factors | Published @ SAKEC Bytes |
@@ -76,14 +83,14 @@ class PremBaraskar:
 
 </div>
 
-> Prior Art Search Report for patent prepared by **Ideas2IPR** · Patent documentation in progress
+> Prior Art Search Report for the patent prepared by **Ideas2IPR** · Patent documentation in progress
 
 ---
 
 ## 🚀 Featured Projects
 
 <details open>
-<summary><strong>🧠 AI Voice Chat System — Emotionally Adaptive AI Companion</strong></summary>
+<summary><strong>🧠 MemoryBridge — Emotionally Adaptive AI Companion · Research Paper Accepted</strong></summary>
 
 <br/>
 
@@ -98,8 +105,29 @@ class PremBaraskar:
 | **Memory** | Multi-turn FAISS semantic search + persistent conversation logging |
 | **Voice** | XTTS v2 — 13+ language TTS with tone-matched synthesis |
 | **Privacy** | 100% on-device via Ollama — zero data leaves the machine |
-| **Research** | Authoring research paper; references 6+ peer-reviewed papers |
+| **Research** | Paper accepted in Int. J. of AI & Soft Computing (Inderscience) |
 | **Repository** | [github.com/PremB2907/voice_chat](https://github.com/PremB2907/voice_chat) |
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><strong>⚖️ LawLens-X — Multi-Agent Contract Risk Analysis · Neural Nexus Hackathon 2026</strong></summary>
+
+<br/>
+
+> Contract analysis system combining deterministic pattern detection with LLM reasoning to generate risk scores, negotiation suggestions and scenario simulations.
+
+<div align="center">
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Python · LLMs · Multi-Agent AI · NLP |
+| **Approach** | Hybrid: deterministic pattern detection + LLM reasoning |
+| **Outputs** | Risk scores · negotiation suggestions · scenario simulations |
+| **Context** | Neural Nexus Hackathon 2026 |
 
 </div>
 </details>
@@ -111,17 +139,16 @@ class PremBaraskar:
 
 <br/>
 
-> Production-grade Hospital Information System built during Quasar 4.0 hackathon — algorithm-first design using C data structures, scaled to a full Flask+MySQL deployment.
+> Hospital Information System built during Quasar 4.0 — algorithm-first design using C data structures, scaled to a full Flask + MySQL deployment. It also served as the foundation for a research paper submission.
 
 <div align="center">
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Python · Flask · C · MySQL · HTML/CSS · Bootstrap |
+| **Stack** | C · Python · Flask · MySQL · HTML/CSS · Bootstrap |
 | **Algorithms** | Priority-queue appointment scheduling (emergency-first) · BFS department navigation · linked lists |
-| **Modules** | OPD/IPD room allocation · real-time 360° operational dashboard · role-based access |
-| **Architecture** | Algorithm in C → scaled to production Flask+MySQL system (PS03-aligned) |
-| **Context** | Quasar 4.0 Hackathon submission |
+| **Modules** | OPD/IPD room allocation · real-time operational dashboard · role-based access |
+| **Architecture** | Algorithm in C → scaled to production Flask + MySQL system |
 
 </div>
 </details>
@@ -129,11 +156,11 @@ class PremBaraskar:
 ---
 
 <details>
-<summary><strong>🔏 HealthCrypt Nexus — Patent-Pending Multi-Domain Orchestration Platform</strong></summary>
+<summary><strong>🔏 HealthCrypt Nexus — Patent Project (Under Filing 2026)</strong></summary>
 
 <br/>
 
-> The backbone of a filed patent application — a unified platform merging hospital management, TCP network security scanning, and ancient Katapayadi cryptography under one deployment controller.
+> A unified platform merging hospital management, TCP network security scanning, and ancient Katapayadi cryptography under one orchestration controller.
 
 <div align="center">
 
@@ -155,7 +182,7 @@ class PremBaraskar:
 
 <br/>
 
-> Deep learning accessibility tool performing real-time American Sign Language recognition (A–Z) using CNN + MediaPipe, with a web interface for frictionless access.
+> Deep learning accessibility tool performing real-time American Sign Language recognition (A–Z) using CNN + MediaPipe hand tracking.
 
 <div align="center">
 
@@ -164,7 +191,7 @@ class PremBaraskar:
 | **Stack** | Python · TensorFlow · Keras · OpenCV · MediaPipe · NumPy |
 | **Model** | CNN-based classification — trained and tested with real-world webcam input |
 | **Impact** | Bridges communication gaps for the deaf community |
-| **Research** | Foundation for paper: *Gesture-Based Biometric Authentication* (Under Review @ Inderscience) |
+| **Research** | Foundation for paper: *Real-Time Sign Language Prediction Using Transfer Learning and Hand Landmark-Guided ROI Extraction* (Under Review @ Springer SIViP) |
 | **Repository** | [github.com/PremB2907/ASL-recognition](https://github.com/PremB2907/ASL-recognition) |
 
 </div>
@@ -177,7 +204,7 @@ class PremBaraskar:
 
 <br/>
 
-> Professional-grade TCP port scanner with a React+Vite frontend and Express REST API backend — directly aligned with the HealthCrypt Nexus patent's network security module.
+> TCP port scanner with a React + Vite frontend and Express REST API backend — aligned with the HealthCrypt Nexus network security module.
 
 <div align="center">
 
@@ -186,7 +213,7 @@ class PremBaraskar:
 | **Stack** | TypeScript · React · Node.js · Express · Vite · Tailwind CSS |
 | **Function** | Classifies TCP ports as OPEN / FILTERED / CLOSED via socket probing |
 | **Architecture** | Fully type-safe fullstack — REST API backend + reactive frontend |
-| **Patent Link** | Core module of HealthCrypt Nexus IP filing |
+| **Patent Link** | Core module of the HealthCrypt Nexus IP filing |
 
 </div>
 </details>
@@ -198,7 +225,7 @@ class PremBaraskar:
 
 <br/>
 
-> Authentic digital implementation of the Katapayadi numeral substitution system (used in Carnatic music for millennia) — wrapped in a New Brutalism UI with full auth, dark mode, and admin panel.
+> Digital implementation of the Katapayadi numeral substitution system — wrapped in a New Brutalism UI with auth, dark mode, and an admin panel.
 
 <div align="center">
 
@@ -207,7 +234,6 @@ class PremBaraskar:
 | **Stack** | Python · Flask · SQLAlchemy · Werkzeug · Jinja2 · SQLite |
 | **Design** | New Brutalism — bold, raw, high-contrast with persistent dark/light mode |
 | **Security** | Key-based encryption (0–9 keys) · user auth · admin panel |
-| **Cultural** | Preserving ancient Indian mathematical heritage in a modern interface |
 | **Stars** | ⭐ 3 GitHub stars |
 | **Repository** | [github.com/PremB2907/Katapayadi-Cipher-Web-Application-Development](https://github.com/PremB2907/Katapayadi-Cipher-Web-Application-Development) |
 
@@ -221,7 +247,7 @@ class PremBaraskar:
 
 <br/>
 
-> Terminal-native ASCII/Braille image and video renderer with cinematic signal shaders, real-time webcam streaming, and a custom `.nglyph` session recording format.
+> Terminal-native ASCII/Braille image and video renderer with cinematic signal shaders, real-time webcam rendering, and a custom `.nglyph` session recording format.
 
 <div align="center">
 
@@ -261,12 +287,12 @@ class PremBaraskar:
 
 | Role | Organization | Period | Highlight |
 |:---|:---|:---:|:---|
-| 🎙️ **Speech Dataset Curator** | Indian Institute of Science (IISc) – SPIRE Lab | Mar 2026 | Curated 250 structured sentences; coordinated 5 speakers; research-grade metadata |
-| 🛡️ **Ethical Hacking Intern** | AICTE | Jan–Mar 2026 | Pentesting, security assessments, vulnerability analysis |
-| 🔍 **Cyber Analyst Fellow** | DeepCytes Cyber Labs, UK | Jul–Dec 2025 | Threat analysis & incident response with international teams |
-| 🐍 **Python Full Stack Intern** | AICTE | Jul–Sep 2025 | Django · React · SQL · RESTful API design |
-| 🔒 **Cybersecurity Intern** | Cisco Networking Academy & AICTE | Apr–Jun 2025 | Firewalls, network security, enterprise cyber defence |
-| 📊 **Data Science Intern** | AICTE | Jan–Mar 2025 | Predictive models · visual analytics dashboards · scikit-learn · TensorFlow |
+| 🎙️ **Speech Dataset Curator** | Indian Institute of Science (IISc) – SPIRE Lab | Mar 2026 | Curated 250 structured English sentences; coordinated 5 speakers; research-grade metadata validation |
+| 🛡️ **Ethical Hacking Intern** | AICTE | Jan–Mar 2026 | Security assessments, pentesting exercises, vulnerability analysis |
+| 🔍 **Cyber Analyst Fellow** | DeepCytes Cyber Labs, UK | Jul–Dec 2025 | Threat analysis, vulnerability assessments & incident response with international teams |
+| 🐍 **Python Full Stack Intern** | AICTE | Jul–Sep 2025 | Django · React · SQL · RESTful APIs |
+| 🔒 **Cybersecurity Intern** | Cisco Networking Academy & AICTE | Apr–Jun 2025 | Network security, firewalls, enterprise cyber defence |
+| 📊 **Data Science Intern** | AICTE | Jan–Mar 2025 | Predictive models · visual analytics dashboards · scikit-learn · TensorFlow · Pandas |
 
 </div>
 
@@ -278,9 +304,11 @@ class PremBaraskar:
 
 | Event | Project | Status |
 |:---|:---|:---:|
-| 🚀 **ISRO Bharatiya Antariksh Hackathon (BAH) 2026** | PS-04: Occlusion-Robust Road Extraction + Graph-Theoretic Urban Mobility Analysis — Bengaluru | 🔥 Active |
+| 🚀 **ISRO Bharatiya Antariksh Hackathon 2026** | PS-04: Occlusion-Robust Road Extraction + Graph-Theoretic Urban Mobility Analysis (satellite / remote sensing) | Participant |
 | 🌿 **AVISHKAAR Season 3** (National Level) | EcoTech — Sustainability Platform | ✅ Shortlisted for Physical Round |
+| ⚖️ **Neural Nexus Hackathon 2026** | LawLens-X — Multi-Agent Contract Risk Analysis | ✅ Participated |
 | 🏥 **Quasar 4.0 Hackathon** | IntelliCare — Smart Hospital Information System | ✅ Submitted |
+| 🇮🇳 **Smart India Hackathon (SIH) 2024** | Internal college round | ✅ Shortlisted |
 
 </div>
 
@@ -312,7 +340,7 @@ class PremBaraskar:
 
 </div>
 
-### Databases & Cloud / DevOps
+### Databases & Tools
 
 <div align="center">
 
@@ -328,8 +356,8 @@ class PremBaraskar:
 |:---:|:---|
 | Voice AI | Coqui XTTS v2 · DistilRoBERTa · Ollama · FAISS · Sentence Transformers |
 | Computer Vision | MediaPipe · OpenCV · TensorFlow/Keras CNN · NumPy |
-| Network Security | TCP Socket Probing · Penetration Testing · Wireshark |
-| Cryptography | Katapayadi Cipher · SHA-256 · Steganography |
+| Multi-Agent / LLM | LLM reasoning · multi-agent pipelines · NLP |
+| Security & Cryptography | TCP Socket Probing · Pentesting · PQC · QKD · SHA-256 · Katapayadi · Steganography |
 | Terminal Art | Rich · Colorama · Typer · Braille Rendering |
 
 </div>
@@ -342,7 +370,7 @@ class PremBaraskar:
 
 | Institution | Qualification | Score | Period |
 |:---|:---|:---:|:---:|
-| **SAKEC, Mumbai** | B.Tech – Information Technology | **CGPA: 9.69** (S3: **10.00** 🔥) | 2024–2028 |
+| **SAKEC, Mumbai** | B.Tech – Information Technology | **CGPA: 9.845** (S1: 9.83 · S2: 9.55 · S3: **10.00** · S4: **10.00**) | 2024–2028 |
 | **DG Ruparel College** | HSC – Computer Science | **90.50%** | 2022–2024 |
 | **Don Bosco High School** | SSC | **95.60%** | 2019–2022 |
 
@@ -358,12 +386,17 @@ class PremBaraskar:
 
 | Award | Details |
 |:---:|:---|
-| 🥇 **Global Winner – Rank #1** | Heartfulness Essay Event 2025 |
+| 🎖️ **Student Excellence Award 2026** | ZSkillUp Education, Saksham Bharat & FTPO India — academics, leadership, innovation & social impact |
+| 🥇 **Global Rank #1** | Heartfulness Essay Event 2025 (Heartfulness Education Trust, Shri Ram Chandra Mission & The Commonwealth) |
 | 🥈 **2nd Place** | Marathi Poetry Writing Contest |
 | 🥈 **2nd Place** | Marathi Prose Writing Contest |
-| 🌱 **Green Champ Award** | Environmental Initiative |
+| 🥈 **2nd Place** | Code In The Dark |
+| 🥇 **1st Place** | Quizzie Quest |
+| 🥇 **Gold Medal** | 33rd Mumbai District Taekwondo Championship |
+| 🎨 **State Level Art Rank 1** | |
+| 🌍 **International Social Studies Olympiad Rank 1** | |
 | 🔬 **Dr. Homi Bhabha Balvaidnyanik** | Science Examination |
-| 🌍 **International Social Studies Olympiad** | |
+| 🌱 **Green Champ Award** | Environmental Initiative |
 
 </div>
 
@@ -371,7 +404,7 @@ class PremBaraskar:
 
 ![NPTEL](https://img.shields.io/badge/NPTEL-German--I%20Elite-FF6B35?style=for-the-badge&logo=academia&logoColor=white)
 ![RedHat](https://img.shields.io/badge/Red%20Hat-Python%20AD141-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Quantum ML](https://img.shields.io/badge/Quantum%20ML-Fundamentals-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
+![Quantum ML](https://img.shields.io/badge/CybraneX-Quantum%20ML%20Fundamentals-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
 ![AICTE Hacking](https://img.shields.io/badge/AICTE-Ethical%20Hacking-FF4B4B?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![AICTE Python](https://img.shields.io/badge/AICTE-Python%20Full%20Stack-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -383,8 +416,8 @@ class PremBaraskar:
 ![IEI](https://img.shields.io/badge/IEI-Member-003366?style=for-the-badge)
 ![IUCEE](https://img.shields.io/badge/IUCEE-Member-00BCD4?style=for-the-badge)
 ![GDG](https://img.shields.io/badge/GDG%20On%20Campus-SAKEC-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Kalavrund](https://img.shields.io/badge/Kalavrund-Member-9C27B0?style=for-the-badge)
-![Sambodhi](https://img.shields.io/badge/Sambodhi-Member-FF9800?style=for-the-badge)
+![Kalavrund](https://img.shields.io/badge/Kalavrund-SAKEC%20Artist%20Club-9C27B0?style=for-the-badge)
+![Sambodhi](https://img.shields.io/badge/Sambodhi-SAKEC%20Writers%20Club-FF9800?style=for-the-badge)
 
 ---
 
@@ -396,7 +429,7 @@ class PremBaraskar:
 |:---|:---|:---:|
 | 💻 **Head of Information Technology** | Sankalp Sarthi Foundation, Mumbai | Jun 2024 – Present |
 | 🎓 **Class Representative** | SAKEC (60+ students) | Oct 2024 – Present |
-| 🔬 **Student Volunteer** | Agastya International Foundation | Nov 2025 |
+| 🔬 **Student Volunteer** | Agastya International Foundation (STEM outreach) | Nov 2025 |
 
 </div>
 
@@ -452,9 +485,10 @@ class PremBaraskar:
 ```yaml
 current_focus:
   active_builds:
-    - "🛰️  ISRO BAH 2026 — PS-04 road extraction + graph-theoretic urban mobility (Bengaluru)"
+    - "🛰️  ISRO BAH 2026 — PS-04 road extraction + graph-theoretic urban mobility"
     - "🔏  HealthCrypt Nexus — finalizing patent documentation with Ideas2IPR"
-    - "📄  3 Inderscience research papers — MemoryBridge AI, Gesture Auth, DjVu Compression"
+    - "📄  6 papers under review — PQC/QKD, Q-Sentinel, DjVu, Sign Language, Password Vault, Blockchain Testing"
+    - "📖  Following up on the book: After all we're here Only Once!?"
 
   learning:
     - "🧠  LLM fine-tuning for domain-specific emotionally adaptive AI"
@@ -466,12 +500,12 @@ current_focus:
   exploring:
     - "🛰️   Remote sensing + satellite imagery for urban mapping"
     - "🕸️   Graph-theoretic network analysis for urban criticality"
-    - "🔐  Post-quantum cryptography and steganographic techniques"
-    - "🌐  WebRTC and real-time browser capabilities"
+    - "🔐  Post-quantum cryptography, quantum key distribution & steganography"
+    - "🤖  Multi-agent LLM systems"
 
   open_to:
     - "AI/ML Internships — Computer Vision, LLMs, Voice AI"
-    - "Research Collaborations — Accessible Tech, Indian Heritage Tech"
+    - "Research Collaborations — Accessible Tech, Quantum Security, Indian Heritage Tech"
     - "Hackathon Teams — Impact-driven solutions"
     - "Open Source — anything at the edge of AI + creativity"
 ```
@@ -494,7 +528,7 @@ current_focus:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-baraskar-a155b3327/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-baraskar-a155b2327/)
 [![Email](https://img.shields.io/badge/Gmail-prem.baraskar24@sakec.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prem.baraskar24@sakec.ac.in)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://prem-baraskar-portfolio-hub.lovable.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremB2907)
@@ -510,7 +544,7 @@ current_focus:
 
 **⭐ Star my repos if you find them useful — it genuinely helps!**
 
-*B.Tech IT @ SAKEC · Patent Author · Researcher · Builder · 2024–*
+*B.Tech IT @ SAKEC · Patent Author · Researcher · Published Author · Builder · 2024–*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling" width="100%"/>
 
