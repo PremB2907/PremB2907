@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://prem-baraskar-portfolio-hub.lovable.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-c1mwqea4j-premb2907s-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-baraskar-a155b2327/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prem.baraskar24@sakec.ac.in)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremB2907)
@@ -532,7 +532,7 @@ current_focus:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-baraskar-a155b2327/)
 [![Email](https://img.shields.io/badge/Gmail-prem.baraskar24@sakec.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prem.baraskar24@sakec.ac.in)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://prem-baraskar-portfolio-hub.lovable.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-c1mwqea4j-premb2907s-projects.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremB2907)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Khodkarbandya)
 
