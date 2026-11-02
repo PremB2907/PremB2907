@@ -393,8 +393,8 @@ class PremBaraskar:
 | 🥈 **2nd Place** | Code In The Dark |
 | 🥇 **1st Place** | Quizzie Quest |
 | 🥇 **Gold Medal** | 33rd Mumbai District Taekwondo Championship |
-| 🎨 **State Level Art Rank 1** | |
-| 🌍 **International Social Studies Olympiad Rank 1** | |
+| 🎨 **State Level Art** | Rank 1|
+| 🌍 **International Social Studies** | Olympiad Rank 1|
 | 🔬 **Dr. Homi Bhabha Balvaidnyanik** | Science Examination |
 | 🌱 **Green Champ Award** | Environmental Initiative |
 
@@ -474,7 +474,7 @@ class PremBaraskar:
 
 <div align="center">
 
-![snake gif](https://github.com/PremB2907/PremB2907/blob/output/github-contribution-grid-snake-dark.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PremB2907)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
