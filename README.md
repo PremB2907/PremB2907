@@ -451,9 +451,6 @@ class PremBaraskar:
 ---
 
 ## 🏆 GitHub Trophies
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
 <div align="center">
 
 <img src="profile/trophy.svg" alt="GitHub Profile Trophies" />
@@ -461,31 +458,7 @@ class PremBaraskar:
 </div>
 
 ---
-
-## 📈 Contribution Activity
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<div align="center">
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=PremB2907&bg_color=0d1117&color=A855F7&line=7C3AED&point=c9d1d9&area=true&hide_border=true"
-  alt="Prem's GitHub Activity Graph"
-  width="100%"
-/>
-
-</a>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
 <div align="center">
 
 <picture>
